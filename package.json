@@ -88,5 +88,15 @@
     "puppeteer": "^1.1.0",
     "snyk": "^1.69.9"
   },
-  "snyk": true
+  "snyk": true,
+  "bugs": {
+    "url": "https://github.com/w3c/respec/issues"
+  },
+  "homepage": "https://github.com/w3c/respec#readme",
+  "main": "karma.conf.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "author": ""
 }
