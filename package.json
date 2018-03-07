@@ -89,5 +89,5 @@
     "puppeteer": "^1.1.1",
     "snyk": "^1.69.10"
   },
-  "snyk": true,
+  "snyk": true
 }
