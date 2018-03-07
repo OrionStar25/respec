@@ -90,14 +90,4 @@
     "snyk": "^1.69.10"
   },
   "snyk": true,
-  "bugs": {
-    "url": "https://github.com/w3c/respec/issues"
-  },
-  "homepage": "https://github.com/w3c/respec#readme",
-  "main": "karma.conf.js",
-  "directories": {
-    "example": "examples",
-    "test": "tests"
-  },
-  "author": ""
 }
