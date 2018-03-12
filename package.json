@@ -92,15 +92,5 @@
   "prettier": {
     "trailingComma": "es5"
   },
-  "snyk": true,
-  "bugs": {
-    "url": "https://github.com/w3c/respec/issues"
-  },
-  "homepage": "https://github.com/w3c/respec#readme",
-  "main": "karma.conf.js",
-  "directories": {
-    "example": "examples",
-    "test": "tests"
-  },
-  "author": ""
+  "snyk": true
 }
